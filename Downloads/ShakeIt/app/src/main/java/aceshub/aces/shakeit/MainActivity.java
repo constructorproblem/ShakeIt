@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity  implements SensorEventListe
     SharedPreferences sp;
     String android_id;
 
-    //Sensor
+    //Sensor//
     private SensorManager sensorMan;
     private Sensor accelerometer;
     private Sensor gyrometer;
