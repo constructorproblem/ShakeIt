@@ -8,3 +8,5 @@ Following are the steps for asking question:
 2. Shake your mobile to pass the test.
 3. Shake your mobile to ask. As shake get confirmed it actually passes request to server and your name pops up in html based code.
 4. You can then click on done.
+
+The accelerometer code was written by me as a part of Aces Hub Android club.
